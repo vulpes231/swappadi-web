@@ -1,0 +1,22 @@
+{
+	"name": "SwapPadi",
+	"short_name": "SwapPadi",
+	"description": "Fun, lightweight web app to buy & sell BTC, ETH, and USDT — built for Nigeria",
+	"icons": [
+		{
+			"src": "/splogo.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/splogo.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"start_url": "/",
+	"display": "standalone",
+	"theme_color": "#ffffff",
+	"background_color": "#ffffff",
+	"scope": "/"
+}
