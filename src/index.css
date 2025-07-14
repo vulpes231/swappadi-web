@@ -19,4 +19,5 @@ body,
 p,
 button {
 	font-family: var(--font-body);
+	cursor: pointer;
 }
